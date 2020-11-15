@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UbuntuProgram:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UbuntuProgram_jar</output-path>
+    <root id="archive" name="UbuntuProgram.jar">
+      <element id="module-output" name="UbuntuProgram" />
+    </root>
+  </artifact>
+</component>
